@@ -1,0 +1,26 @@
+{
+  "name": "fakexmlhttprequest",
+  "version": "0.0.1",
+  "description": "A fake XMLHttpRequest useful for testing",
+  "main": "fakexmlhttprequest.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R nyan -w --check-leaks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asbjornenge/fakexmlhttprequest.git"
+  },
+  "keywords": [
+    "xmlhttprequest",
+    "testing"
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/asbjornenge/fakexmlhttprequest/issues"
+  },
+  "homepage": "https://github.com/asbjornenge/fakexmlhttprequest"
+}
