@@ -8,6 +8,8 @@ A fake XMLHttpRequest useful for testing.
 
 ## Use
 
+Check out the [spec](https://github.com/asbjornenge/fakexmlhttprequest/blob/master/test/spec.js).
+
 ## Credits
 
 I found this somewhere, can't remember where. Credits in the *fakexmlhttprequest.js* header comment.
